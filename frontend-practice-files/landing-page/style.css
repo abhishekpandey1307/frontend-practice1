@@ -1,1 +1,26 @@
-<!-- style.css for landing-page -->
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: #0077ff;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: white;
+  color: #0077ff;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+#learn {
+  padding: 40px 20px;
+  background: #f0f0f0;
+}
+
